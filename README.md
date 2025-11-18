@@ -1,4 +1,4 @@
-**This repository is a clone of the repository that was used for this project. The repository was cloned as the original was associated with a university git hub account. Please note that 102107806-JH and jhughes266 are the same person.**
+**This repository is a clone of the group repository that was used for this project. The repository was cloned as the original was associated with a university git hub account. Please note that 102107806-JH and jhughes266 are the same person. Schnitze1 was a group member and separate contributor to this project.**
 
 
 Project Directory Structure:
