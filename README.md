@@ -1,3 +1,6 @@
+**This repository is a clone of the repository that was used for this project. The repository was cloned as the original was associated with a university git hub account. Please note that 102107806-JH and jhughes266 are the same person.**
+
+
 Project Directory Structure:
 `    <Project>
        | data/: Contains .txt files that define the graphs and problems used for testing and execution.
